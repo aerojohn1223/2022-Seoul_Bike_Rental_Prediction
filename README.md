@@ -2,7 +2,7 @@
 
 일정: 2022.11.14 ~ 2022.12.12
 
-##대회 설명 / 링크
+## 대회 설명 / 링크
 
 [https://dacon.io/competitions/official/236029/overview/description](https://dacon.io/competitions/official/236029/overview/description)
 
